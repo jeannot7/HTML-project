@@ -1,0 +1,22 @@
+nav {
+  display: inline;
+  background-color: whitesmoke;
+  color: white;
+}
+html {
+  font-family: Roboto;
+  text-align: center;
+  background-image: url("rafael-garcin-_iwbNsTrxy0-unsplash.jpg");
+  color: white;
+}
+h1 {
+  background-color: rgb(163, 37, 37);
+  color: whitesmoke;
+}
+h2 {
+  color: brown;
+}
+#contact {
+  border: 4px solid brown;
+  border-style: dashed;
+}
